@@ -49,6 +49,12 @@
     background-size: cover;
     background-position: center;
 }
+
+.img-box:nth-child(5){
+    background: url(images/image-5.png);
+    background-size: cover;
+    background-position: center;
+}
 .img-box h3{
     color: #fff; 
     position: absolute;
